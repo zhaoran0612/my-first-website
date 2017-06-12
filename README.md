@@ -2,4 +2,4 @@
 
 Find my resume [here](myresume)
 
-This is me ![me](images/profile.jpg)
+This is my picture ![me](images/profile.jpg)
